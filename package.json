@@ -1,6 +1,6 @@
 {
   "name": "guide-line-framework",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Backend Framework",
   "main": "index.js",
   "scripts": {
